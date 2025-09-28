@@ -2,6 +2,11 @@
 
 This is a place for you to start building your Empowering Data Project!
 
+## About
+- GWC SPP 2023 Data Science Course
+- Involves data collection and analyzation of women around the world regarding their living conditions, education, and family size
+
+## Instructions
 ### Project Requirements
 Your project should:
 - Include a Setting for the story
